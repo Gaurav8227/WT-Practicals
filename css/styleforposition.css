@@ -1,0 +1,42 @@
+.static{
+  height:100px;
+  width:100px;
+  background-color:red;
+  border:2px solid black;
+  position:static;
+}
+
+.relative{
+  height:100px;
+  width:100px;
+  background-color:green;
+  border:2px solid white;
+  position:relative;
+  left:100px;
+}
+
+.fixed{
+  height:100px;
+  width:100px;
+  background-color:grey;
+  border:2px solid white;
+  position:fixed;
+}
+
+.absolute{
+  height:100px;
+  width:100px;
+  background-color:Brown;
+  border:2px solid white;
+  position:absolute;
+  left:100px;
+}
+
+.sticky{
+   position: -webkit-sticky;
+   position: sticky;
+   top: 10px;
+   padding: 5px;
+   background-color: #cae8ca;
+   border: 2px solid #4CAF50;
+}

@@ -1,0 +1,140 @@
+body{
+  margin: 0;
+  text-align: center;
+   font-family: 'Merriweather Sans', sans-serif;
+  color: Black;
+}
+
+.top{
+  background-color: black;
+  position: relative;
+  padding: 150px;
+}
+.top_cloud
+{
+  position: absolute;
+  top: 60px;
+  left: 900px;
+}
+.bottom-cloud
+{
+  top: 250px;
+  position: absolute;
+}
+
+.bottom-cont{
+  background-color:#66BFBF;
+  padding: 60px;
+}
+.mountain
+{
+  height: 360px;
+  width: 60%;
+}
+.forh1
+{
+
+  font-size: 5.3rem;
+  margin:0px auto 0 auto;
+  font-family: 'Satisfy', cursive;
+  color: #66BFBF;
+
+}
+
+.gif
+{
+  height: 25%;
+  width: 25%  ;
+  border-radius: 100px;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.gif2
+{
+  height: 25%;
+  width: 25%  ;
+  border-radius:   100px;
+  float: right;
+  /* margin-left: 30px; */
+}
+h2
+{
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+
+.forp{
+  line-height: 2;
+  margin-top: 5px;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3
+{
+  color:#11999E;
+}
+a
+{
+  color:#11999E;
+}
+.top-container
+{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.middle-container
+{
+
+}
+.skill-row
+{
+  /* display: inline-block; */
+  margin:100px auto 100px auto;
+  width:50%;
+  line-height: 2;
+}
+
+
+hr{
+  width: 10%;
+  border-top: 7px dotted grey;
+}
+
+  .btn {
+   background-color:#11999E;
+
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 12px;
+      text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 10px;
+}
+
+.btn:hover {
+   /* border: solid #337FED 1px; */
+   background: #11999E  ;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   text-decoration: none;
+}
+
+
+.copy
+{
+  color: white;
+}

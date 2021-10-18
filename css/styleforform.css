@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+  background-color: grey;
+  font-family: 'Scheherazade New', serif;
+}
+
+h1{
+  color: Brown;
+  text-align: center;
+  font-size: 50px;
+  text-decoration: underline;
+}
+
+#forname{
+font-size: 20px;
+
+}
+
+
+.fordiv{
+   margin: auto;
+   width: 50%;
+   border: 3px solid white;
+   padding: 10px;
+   text-align: left;
+}
+
+#forbutton{
+  border:3px solid black;
+  border-radius: 10px;
+}
+
+input{
+  border: 2px solid black;
+  border-radius: 8  px;
+}
