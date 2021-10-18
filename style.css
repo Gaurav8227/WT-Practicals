@@ -1,0 +1,35 @@
+body {
+  font-family: 'Scheherazade New', serif;
+}
+
+table, th, td {
+  width: 100%;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  width: 10%;
+  padding: 7px;
+  text-align: center;
+}
+
+.bold {
+  font-weight: bolder;
+}
+
+.light_pink {
+  background-color: #FFCCFF;
+}
+
+.blue {
+  color: blue;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
